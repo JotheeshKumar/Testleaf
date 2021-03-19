@@ -14,3 +14,4 @@ public class ChangeOddIndexToUpperCase {
 		up.upperCase("jotheesh");
 	}
 }
+

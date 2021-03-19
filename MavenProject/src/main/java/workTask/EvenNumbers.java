@@ -10,7 +10,6 @@ public class EvenNumbers {
 				System.out.println("num "+ i+ " is even"); 
 			}
 		}
-
 	}
 
 }

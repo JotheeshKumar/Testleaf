@@ -25,7 +25,6 @@ public class ReverseWords {
 			System.out.println("Reversed: "+reversed);
 		}
 	
-	
 	void reverseEven(String currString) {
 		String reversed = "" ;
 		

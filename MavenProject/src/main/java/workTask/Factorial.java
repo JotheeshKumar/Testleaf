@@ -22,5 +22,4 @@ public class Factorial {
 		System.out.println("Recursion:- factorial of "+fc+" is "+check.BoxRecursion(fc));
 		
 	}
-
 }

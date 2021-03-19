@@ -11,5 +11,4 @@ public class Controller {
 		System.out.println("now calling the 3 methods........");
 		computer.computerType();
 	}
-
 }

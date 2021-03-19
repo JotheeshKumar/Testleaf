@@ -17,5 +17,4 @@ public class ComputerConsole {
 		System.out.println("Charger is "+ wires);
 		return wires;
 	}
-	
 }

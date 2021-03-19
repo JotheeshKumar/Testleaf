@@ -16,6 +16,7 @@ public class ArmstrongNum {
 				}else {
 					System.out.println("Provided num "+conum+" is not amsrtong number");
 				}
+				
 	}
 	public static void main(String[] args) {
 		String sumnum="153";

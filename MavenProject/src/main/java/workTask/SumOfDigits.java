@@ -28,6 +28,7 @@ public class SumOfDigits {
         }return Number;
 	}
 	
+	
 	public static void main(String[] args) {
 		int sumnum=555;
 		String sumnum2="555";

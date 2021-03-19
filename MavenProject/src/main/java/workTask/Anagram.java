@@ -22,6 +22,7 @@ public class Anagram {
 				if (Tcount == (n1)) {
 					System.out.println("It's a anagarm");
 				}
+				
 			}
 		} else {
 			System.out.println("Its not a anagarm");

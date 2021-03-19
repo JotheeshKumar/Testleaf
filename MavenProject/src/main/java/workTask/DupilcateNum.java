@@ -9,7 +9,6 @@ public class DupilcateNum {
 		DupilcateNum find = new DupilcateNum();
 		 find.findDupicateInArray(a);
 
-
 	}
 
 	public void findDupicateInArray(int[] a) {

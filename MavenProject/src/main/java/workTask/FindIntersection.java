@@ -22,5 +22,4 @@ public class FindIntersection {
 		FI.interSection(Arr1,Arr2);
 
 	}
-
 }
