@@ -13,9 +13,6 @@ public class ReverseWords {
 			System.out.println("Reversed: "+reversed);
 		}
 	
-	
-	
-	
 	void reverseEven1(String currString) {
 		String reversed = "" ;
 		System.out.println("Normal: "+currString);
